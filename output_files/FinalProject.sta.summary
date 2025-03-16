@@ -1,0 +1,197 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'FinalProject:CLOCK|PreScale:create_1s_clock|counter[0]'
+Slack : -5.369
+TNS   : -389.294
+
+Type  : Slow 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -4.330
+TNS   : -116.997
+
+Type  : Slow 1100mV 85C Model Setup 'KEY[1]'
+Slack : -3.951
+TNS   : -22.842
+
+Type  : Slow 1100mV 85C Model Setup 'KEY[0]'
+Slack : -3.685
+TNS   : -24.727
+
+Type  : Slow 1100mV 85C Model Hold 'CLOCK_50'
+Slack : -0.020
+TNS   : -0.020
+
+Type  : Slow 1100mV 85C Model Hold 'FinalProject:CLOCK|PreScale:create_1s_clock|counter[0]'
+Slack : 0.307
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'KEY[0]'
+Slack : 1.448
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'KEY[1]'
+Slack : 1.713
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'FinalProject:CLOCK|PreScale:create_1s_clock|counter[0]'
+Slack : -0.394
+TNS   : -71.780
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.394
+TNS   : -14.555
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'KEY[0]'
+Slack : 0.160
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'KEY[1]'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'FinalProject:CLOCK|PreScale:create_1s_clock|counter[0]'
+Slack : -5.074
+TNS   : -370.407
+
+Type  : Slow 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -4.164
+TNS   : -112.336
+
+Type  : Slow 1100mV 0C Model Setup 'KEY[1]'
+Slack : -3.860
+TNS   : -22.225
+
+Type  : Slow 1100mV 0C Model Setup 'KEY[0]'
+Slack : -3.592
+TNS   : -23.893
+
+Type  : Slow 1100mV 0C Model Hold 'CLOCK_50'
+Slack : -0.342
+TNS   : -0.492
+
+Type  : Slow 1100mV 0C Model Hold 'FinalProject:CLOCK|PreScale:create_1s_clock|counter[0]'
+Slack : -0.058
+TNS   : -0.112
+
+Type  : Slow 1100mV 0C Model Hold 'KEY[0]'
+Slack : 1.301
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'KEY[1]'
+Slack : 1.616
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'FinalProject:CLOCK|PreScale:create_1s_clock|counter[0]'
+Slack : -0.394
+TNS   : -82.235
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.394
+TNS   : -16.139
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'KEY[0]'
+Slack : 0.131
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'KEY[1]'
+Slack : 0.161
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'FinalProject:CLOCK|PreScale:create_1s_clock|counter[0]'
+Slack : -3.310
+TNS   : -200.848
+
+Type  : Fast 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -2.750
+TNS   : -63.115
+
+Type  : Fast 1100mV 85C Model Setup 'KEY[1]'
+Slack : -2.635
+TNS   : -15.049
+
+Type  : Fast 1100mV 85C Model Setup 'KEY[0]'
+Slack : -2.341
+TNS   : -15.898
+
+Type  : Fast 1100mV 85C Model Hold 'FinalProject:CLOCK|PreScale:create_1s_clock|counter[0]'
+Slack : 0.183
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'CLOCK_50'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'KEY[0]'
+Slack : 1.069
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'KEY[1]'
+Slack : 1.241
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.088
+TNS   : -2.382
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'KEY[0]'
+Slack : -0.088
+TNS   : -0.997
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'KEY[1]'
+Slack : -0.057
+TNS   : -0.416
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'FinalProject:CLOCK|PreScale:create_1s_clock|counter[0]'
+Slack : 0.079
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'FinalProject:CLOCK|PreScale:create_1s_clock|counter[0]'
+Slack : -2.823
+TNS   : -166.993
+
+Type  : Fast 1100mV 0C Model Setup 'KEY[1]'
+Slack : -2.382
+TNS   : -13.663
+
+Type  : Fast 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -2.214
+TNS   : -54.001
+
+Type  : Fast 1100mV 0C Model Setup 'KEY[0]'
+Slack : -2.118
+TNS   : -14.319
+
+Type  : Fast 1100mV 0C Model Hold 'CLOCK_50'
+Slack : 0.001
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'FinalProject:CLOCK|PreScale:create_1s_clock|counter[0]'
+Slack : 0.171
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'KEY[0]'
+Slack : 0.877
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'KEY[1]'
+Slack : 1.089
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.088
+TNS   : -2.363
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'KEY[1]'
+Slack : -0.075
+TNS   : -0.666
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'KEY[0]'
+Slack : -0.071
+TNS   : -0.866
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'FinalProject:CLOCK|PreScale:create_1s_clock|counter[0]'
+Slack : 0.056
+TNS   : 0.000
+
+------------------------------------------------------------
